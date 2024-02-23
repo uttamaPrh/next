@@ -46,7 +46,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-           done 
+            This is also for trial
           </p>
         </a>
 
@@ -77,9 +77,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
-          </p>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>Deal done</p>
         </a>
 
         <a
